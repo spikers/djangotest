@@ -12,3 +12,6 @@ It automatically starts on port 8000, so go to the url:
 `localhost:8000/polls`
 
 Hello World!
+
+## To Access Database CLI
+`sqlite3 db.sqlite3`
